@@ -122,6 +122,7 @@ Portfolio project — documentation and analytical artifacts are maintained in t
 
 <img width="799" height="430" alt="sales_dashboard" src="https://github.com/user-attachments/assets/b83d6694-6977-4379-adb9-22511d564ad2" />
 
+<img width="719" height="431" alt="Inventory" src="https://github.com/user-attachments/assets/8aa9c8fa-20ac-4c0f-b8e8-ebd2c6ed2c65" />
 
 
 ## Author
