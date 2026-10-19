@@ -1,0 +1,101 @@
+CustomerKey,CustomerName,Segment,City,Region,Channel
+1,Customer 1,Retail,Delhi,West,Distributor
+2,Customer 2,Modern Trade,Bangalore,West,Retailer
+3,Customer 3,Retail,Kolkata,South,Distributor
+4,Customer 4,Retail,Bangalore,East,Distributor
+5,Customer 5,Modern Trade,Chennai,East,Distributor
+6,Customer 6,Retail,Delhi,South,Retailer
+7,Customer 7,Wholesale,Delhi,South,Distributor
+8,Customer 8,Retail,Bangalore,East,Retailer
+9,Customer 9,Wholesale,Bangalore,North,Retailer
+10,Customer 10,Modern Trade,Chennai,South,Distributor
+11,Customer 11,Retail,Kolkata,West,Distributor
+12,Customer 12,Modern Trade,Chennai,East,E-Commerce
+13,Customer 13,Wholesale,Mumbai,East,E-Commerce
+14,Customer 14,Wholesale,Chennai,West,Distributor
+15,Customer 15,Modern Trade,Mumbai,West,Distributor
+16,Customer 16,Modern Trade,Mumbai,West,Retailer
+17,Customer 17,Retail,Chennai,West,E-Commerce
+18,Customer 18,Modern Trade,Mumbai,East,Retailer
+19,Customer 19,Modern Trade,Chennai,North,Retailer
+20,Customer 20,Retail,Kolkata,West,Retailer
+21,Customer 21,Wholesale,Delhi,North,Retailer
+22,Customer 22,Wholesale,Mumbai,East,Retailer
+23,Customer 23,Modern Trade,Chennai,East,Distributor
+24,Customer 24,Modern Trade,Delhi,North,Distributor
+25,Customer 25,Wholesale,Mumbai,West,Retailer
+26,Customer 26,Wholesale,Delhi,South,E-Commerce
+27,Customer 27,Modern Trade,Kolkata,East,E-Commerce
+28,Customer 28,Modern Trade,Kolkata,East,Distributor
+29,Customer 29,Wholesale,Mumbai,East,E-Commerce
+30,Customer 30,Modern Trade,Delhi,North,Retailer
+31,Customer 31,Modern Trade,Delhi,North,Distributor
+32,Customer 32,Modern Trade,Kolkata,South,Retailer
+33,Customer 33,Retail,Mumbai,South,Retailer
+34,Customer 34,Retail,Mumbai,North,Distributor
+35,Customer 35,Modern Trade,Kolkata,West,E-Commerce
+36,Customer 36,Wholesale,Chennai,South,E-Commerce
+37,Customer 37,Retail,Mumbai,East,E-Commerce
+38,Customer 38,Retail,Chennai,East,Retailer
+39,Customer 39,Modern Trade,Chennai,West,Retailer
+40,Customer 40,Retail,Mumbai,North,Retailer
+41,Customer 41,Retail,Kolkata,West,E-Commerce
+42,Customer 42,Retail,Mumbai,North,E-Commerce
+43,Customer 43,Wholesale,Chennai,West,Distributor
+44,Customer 44,Retail,Delhi,South,Distributor
+45,Customer 45,Retail,Kolkata,South,E-Commerce
+46,Customer 46,Modern Trade,Delhi,North,Distributor
+47,Customer 47,Modern Trade,Mumbai,South,Distributor
+48,Customer 48,Wholesale,Delhi,West,Retailer
+49,Customer 49,Wholesale,Kolkata,West,Distributor
+50,Customer 50,Retail,Delhi,South,Retailer
+51,Customer 51,Wholesale,Mumbai,North,Retailer
+52,Customer 52,Modern Trade,Chennai,South,E-Commerce
+53,Customer 53,Modern Trade,Kolkata,East,Distributor
+54,Customer 54,Wholesale,Delhi,North,Distributor
+55,Customer 55,Retail,Chennai,South,Retailer
+56,Customer 56,Modern Trade,Kolkata,South,E-Commerce
+57,Customer 57,Modern Trade,Mumbai,South,E-Commerce
+58,Customer 58,Retail,Kolkata,East,E-Commerce
+59,Customer 59,Wholesale,Mumbai,West,Retailer
+60,Customer 60,Wholesale,Mumbai,North,E-Commerce
+61,Customer 61,Wholesale,Mumbai,North,E-Commerce
+62,Customer 62,Wholesale,Bangalore,North,Retailer
+63,Customer 63,Modern Trade,Kolkata,West,Distributor
+64,Customer 64,Wholesale,Bangalore,West,E-Commerce
+65,Customer 65,Modern Trade,Kolkata,South,E-Commerce
+66,Customer 66,Retail,Kolkata,North,Distributor
+67,Customer 67,Wholesale,Chennai,North,Retailer
+68,Customer 68,Wholesale,Bangalore,West,E-Commerce
+69,Customer 69,Wholesale,Delhi,East,Retailer
+70,Customer 70,Modern Trade,Chennai,North,Distributor
+71,Customer 71,Retail,Kolkata,West,Distributor
+72,Customer 72,Retail,Mumbai,East,Distributor
+73,Customer 73,Wholesale,Chennai,East,Retailer
+74,Customer 74,Wholesale,Chennai,West,E-Commerce
+75,Customer 75,Modern Trade,Bangalore,South,Retailer
+76,Customer 76,Retail,Delhi,East,Distributor
+77,Customer 77,Wholesale,Delhi,West,E-Commerce
+78,Customer 78,Modern Trade,Bangalore,East,E-Commerce
+79,Customer 79,Retail,Mumbai,South,Distributor
+80,Customer 80,Wholesale,Chennai,North,Retailer
+81,Customer 81,Modern Trade,Chennai,South,E-Commerce
+82,Customer 82,Wholesale,Delhi,South,Retailer
+83,Customer 83,Wholesale,Delhi,North,E-Commerce
+84,Customer 84,Wholesale,Delhi,North,Retailer
+85,Customer 85,Retail,Kolkata,West,Retailer
+86,Customer 86,Wholesale,Kolkata,East,Distributor
+87,Customer 87,Retail,Delhi,South,E-Commerce
+88,Customer 88,Retail,Delhi,East,Retailer
+89,Customer 89,Wholesale,Kolkata,South,Retailer
+90,Customer 90,Retail,Delhi,South,Retailer
+91,Customer 91,Modern Trade,Mumbai,South,Retailer
+92,Customer 92,Retail,Kolkata,North,Retailer
+93,Customer 93,Wholesale,Chennai,West,Retailer
+94,Customer 94,Retail,Kolkata,South,Retailer
+95,Customer 95,Retail,Bangalore,North,E-Commerce
+96,Customer 96,Modern Trade,Bangalore,West,Retailer
+97,Customer 97,Retail,Chennai,East,Retailer
+98,Customer 98,Modern Trade,Chennai,East,Distributor
+99,Customer 99,Modern Trade,Bangalore,West,Retailer
+100,Customer 100,Retail,Mumbai,North,Retailer

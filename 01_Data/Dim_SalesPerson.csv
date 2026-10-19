@@ -1,0 +1,16 @@
+SalespersonKey,SalespersonName,Region,ExperienceYears
+1,Salesperson 1,North,6
+2,Salesperson 2,South,8
+3,Salesperson 3,North,15
+4,Salesperson 4,South,7
+5,Salesperson 5,South,7
+6,Salesperson 6,East,10
+7,Salesperson 7,East,14
+8,Salesperson 8,East,8
+9,Salesperson 9,West,13
+10,Salesperson 10,East,15
+11,Salesperson 11,East,15
+12,Salesperson 12,East,6
+13,Salesperson 13,West,3
+14,Salesperson 14,West,6
+15,Salesperson 15,West,10
