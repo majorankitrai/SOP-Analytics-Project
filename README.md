@@ -118,6 +118,12 @@ Opening the Power BI report may require importing the sample data or configuring
 
 Portfolio project — documentation and analytical artifacts are maintained in this repository.
 
+<img width="786" height="431" alt="executive_dashboard" src="https://github.com/user-attachments/assets/3c2f7c64-2e4c-4bc4-942a-7807538e5197" />
+
+<img width="799" height="430" alt="sales_dashboard" src="https://github.com/user-attachments/assets/b83d6694-6977-4379-adb9-22511d564ad2" />
+
+
+
 ## Author
 
 Ankit
